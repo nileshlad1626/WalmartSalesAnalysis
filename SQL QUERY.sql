@@ -257,5 +257,3 @@ FROM
     sales
 GROUP BY day_name
 ORDER BY avg_rating DESC;
-
-SHOW DATABASES;
