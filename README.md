@@ -66,6 +66,38 @@ Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the
 2.In which city is each branch?
 
 #### Product
+1.How many unique product lines does the data have?
+
+2.What is the most common payment method?
+
+3.What is the most selling product line?
+
+4.What is the city with the largest revenue?
+
+5.What is the total revenue by month?
+
+6.Classify each product line as 'Good' or 'Bad' based on average sales.
+
+7. Retrieve the top three products by total revenue within each city.
+
+8. Which branch sold more products than average product sold?
+
+#### Sales
+1.Number of sales made in each time of the day per weekday
+
+2.Which city has the largest VAT percent?
+
+3.Which of the customer types brings the most revenue?
+
+#### Customers
+1.How many unique customer types does the data have?
+
+2. What is the most common customer type?
+
+3. Which time of the day do customers give most ratings per branch?
+
+4. Which day fo the week has the best avg ratings?
+
 
 
 
