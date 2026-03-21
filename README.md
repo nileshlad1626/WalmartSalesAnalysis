@@ -61,6 +61,10 @@ Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the
 
 ### Business Questions To Answer
 #### Generic Question
+1.How many unique cities does the data have?
+2.In which city is each branch?
+
+#### Product
 
 
 
